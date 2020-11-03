@@ -13,7 +13,7 @@
     "react-scripts": "4.0.0",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://github.com/Diane998/image-search",
+  "homepage": "https://diane998.github.io/image-search/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
