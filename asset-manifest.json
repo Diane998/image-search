@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Diane998/image-search/static/css/main.19ea7c35.chunk.css",
+    "main.js": "/Diane998/image-search/static/js/main.a5a14127.chunk.js",
+    "main.js.map": "/Diane998/image-search/static/js/main.a5a14127.chunk.js.map",
+    "runtime-main.js": "/Diane998/image-search/static/js/runtime-main.0ba4a0db.js",
+    "runtime-main.js.map": "/Diane998/image-search/static/js/runtime-main.0ba4a0db.js.map",
+    "static/js/2.6b8b2800.chunk.js": "/Diane998/image-search/static/js/2.6b8b2800.chunk.js",
+    "static/js/2.6b8b2800.chunk.js.map": "/Diane998/image-search/static/js/2.6b8b2800.chunk.js.map",
+    "index.html": "/Diane998/image-search/index.html",
+    "static/css/main.19ea7c35.chunk.css.map": "/Diane998/image-search/static/css/main.19ea7c35.chunk.css.map",
+    "static/js/2.6b8b2800.chunk.js.LICENSE.txt": "/Diane998/image-search/static/js/2.6b8b2800.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba4a0db.js",
+    "static/js/2.6b8b2800.chunk.js",
+    "static/css/main.19ea7c35.chunk.css",
+    "static/js/main.a5a14127.chunk.js"
+  ]
+}
